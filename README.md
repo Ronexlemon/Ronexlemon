@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronex Ondimu</h1>
-<h3 align="center">A passionate Mobile developer from Kenya</h3>
+<h3 align="center">A passionate Web3 developer from Kenya</h3>
 
 - 🔭 I’m currently working on **Android Develpment(Kotlin,Java)**
 
