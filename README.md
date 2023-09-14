@@ -8,6 +8,7 @@
 - 📝 I regularly write articles on [http://ronexlemon.medium.com](http://ronexlemon.medium.com)
 
 - 💬 Ask me about **Anything**
+ - 📫 My PortFolio **https://port-folioo.vercel.app/**
 
 - 📫 How to reach me **ronexondimu@gmail.com**
 
