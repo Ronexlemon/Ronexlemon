@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Mobile Development (React Native)***
 - 👨‍💻 All of my projects are available at [https://github.com/RonexLemon](https://github.com/RonexLemon)
 - 📝 I regularly write articles on [http://ronexlemon.medium.com](http://ronexlemon.medium.com)
-- 💬 Ask me about **Anything**
+- 💬 Ask me about ****Anything****
 - 📫 My Portfolio: [https://port-folioo.vercel.app](https://port-folioo.vercel.app)
 - 📫 How to reach me: **ronexondimu@gmail.com**
 
