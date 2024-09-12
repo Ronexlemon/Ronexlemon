@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronex Ondimu</h1>
 <h3 align="center">A passionate Web3 developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Mobile Development (React Native)***&*
+- 🔭 I’m currently working on **Mobile Development (React Native)*#**&*
 - 👨‍💻 All of my projects are available at [https://github.com/RonexLemon](https://github.com/RonexLemon)
 - 📝 I regularly write articles on [http://ronexlemon.medium.com](http://ronexlemon.medium.com)
 - 💬 Ask me about ****Anything****Tech**
